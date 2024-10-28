@@ -28,6 +28,9 @@ const translation: I18nTranslation = {
     },
   },
   app: {
+    consoleMessage: {
+      learnMore: '',
+    },
     copy: {
       hint: 'Copier (Ctrl/Cmd + A, Ctrl/Cmd + C)',
     },
@@ -447,6 +450,7 @@ const translation: I18nTranslation = {
     more: 'Plus...',
     optional: 'Facultatif',
     required: 'Requis',
+    tagline: '',
   },
   import: {
     bulk: {
