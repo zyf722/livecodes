@@ -4902,4 +4902,6 @@ const initHeadless = async (config: Partial<Config>, baseUrl: string) => {
   return createApi();
 };
 
+window.deps.translateString('i18n.workflow.test', 'I18n Workflow Test');
+
 export { initApp, initEmbed, initLite, initHeadless };
