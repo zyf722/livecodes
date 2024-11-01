@@ -459,6 +459,11 @@ const translation = {
     required: 'Required',
     tagline: 'A Code Playground That Just Works!',
   },
+  i18n: {
+    workflow: {
+      test: 'I18n Workflow Test',
+    },
+  },
   import: {
     bulk: {
       desc: 'Bulk import multiple projects to your saved projects. Projects can be exported from the <1>Saved Projects</1> screen.',
